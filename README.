@@ -1,0 +1,14 @@
+# -CNN-_Pytorch
+
+用pytorch 复现经典的CNN网络
+
+1.ALexNet
+2.VGGNet
+3.GoogleNet
+4.ResNet
+5.DenseNet
+
+
+复现其他论文
+6.Deep Compression
+7.Distilling the Knowledge in a Neural Network
